@@ -7,3 +7,9 @@ This repository contains a machine learning model for detecting and counting par
 - Python script for live video feed processing.
 - Easy to configure and deploy.
 - Accurate and efficient model.
+
+
+
+# Live Demo:
+  ![image](https://github.com/sriayush02/Praking-Counter-Detection/assets/83555352/03629f22-baf7-432b-a450-57fcc97ba050)
+
